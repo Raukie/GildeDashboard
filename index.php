@@ -68,7 +68,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h1 class="card-title">Deur 1</h1>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <h2 class="card-text">Status: Dicht</h2>
                     </div>
                 </div>
             </div>
@@ -76,7 +76,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h1 class="card-title">Deur 2</h1>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                        <h2 class="card-text">Status: Dicht</h2>
                     </div>
                 </div>
             </div>
@@ -93,16 +93,16 @@
             <div class="modal-body">
                 <div>
                     <label for="username">Gebuikersnaam</label>
-                    <input type="text" class="form-control" id="username">
+                    <input type="text" class="form-control" id="username" required>
                 </div>
                 <div>
                     <label for="username">Wachtwoord</label>
-                    <input type="password" class="form-control" id="password">
+                    <input type="password" class="form-control" id="password" required>
                 </div>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Annuleer</button>
-                <button type="button" class="btn btn-primary">Login</button>
+                <a href="admin/temperature.php" type="button" class="btn btn-primary">Login</a>
             </div>
         </div>
     </div>
