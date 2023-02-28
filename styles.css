@@ -17,3 +17,8 @@
 #vertical-center {
     margin-top: 15%;
 }
+
+#chart_div{
+    justify-content: center;
+    display: flex;
+}
