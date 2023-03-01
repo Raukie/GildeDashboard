@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="row" style="height:100%; width:100%;">
-        <div class="d-flex flex-column vh-100 flex-shrink-0 p-3 text-white bg-dark" style="width: 250px;"> <a href="../Venray/index.php " class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none"><img class="logo" src="../andi-gilde-opleidingen-printsolutions.jpg" ></a>
+        <div class="d-flex flex-column vh-100 flex-shrink-0 p-3 text-white bg-dark" style="width: 250px;"> <a href="../index.php " class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none"><img class="logo" src="../andi-gilde-opleidingen-printsolutions.jpg" ></a>
             <hr>
             <ul class="nav nav-pills flex-column mb-auto">
                 <li> <a href="temperature.php" class="nav-link text-white" aria-current="page"> <i class="fa-solid fa-temperature-half"></i><span class="ms-2">Temperatuur</span> </a> </li>
