@@ -48,7 +48,7 @@
     <!-- Navbar -->
     <nav class="navbar bg-body-tertiary">
         <div class="container-fluid">
-            <img src="andi-gilde-opleidingen-printsolutions.jpg" class="logo">
+            <img src="GildeDataCentre.svg" class="logo">
                 <button type="button" id="btnlogin" class="btn" data-bs-toggle="modal" data-bs-target="#loginModal">
                     <i class="fa-solid fa-user-tie fa-2x"></i>
                 </button>
