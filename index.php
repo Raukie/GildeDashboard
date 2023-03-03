@@ -69,7 +69,11 @@
                 <div class="card">
                     <div class="card-body">
                         <h1 class="card-title">Deur 1</h1>
+                        <div style="text-align:center; padding-bottom:10px;">
+                            <i class="fa-solid fa-door-closed" id="closed-door-icon"></i>
+                        </div>
                         <h2 class="card-text">Status: Dicht</h2>
+
                     </div>
                 </div>
             </div>
@@ -77,6 +81,9 @@
                 <div class="card">
                     <div class="card-body">
                         <h1 class="card-title">Deur 2</h1>
+                        <div style="text-align:center; padding-bottom:10px;">
+                            <i class="fa-solid fa-door-closed" id="closed-door-icon"></i>
+                        </div>
                         <h2 class="card-text">Status: Dicht</h2>
                     </div>
                 </div>
