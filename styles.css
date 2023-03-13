@@ -30,3 +30,13 @@
 #closed-door-icon{
     font-size: 80px;
 }
+
+.closed-door{
+    width: 65px;
+    height: 80px;
+}
+
+.open-door{
+    width: 100px;
+    height: 80px;
+}

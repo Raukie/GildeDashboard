@@ -70,7 +70,7 @@
                     <div class="card-body">
                         <h1 class="card-title">Deur 1</h1>
                         <div style="text-align:center; padding-bottom:10px;">
-                            <i class="fa-solid fa-door-closed" id="closed-door-icon"></i>
+                            <img src="Images/closed-door.png"class="closed-door">
                         </div>
                         <h2 class="card-text">Status: Dicht</h2>
 
@@ -82,9 +82,9 @@
                     <div class="card-body">
                         <h1 class="card-title">Deur 2</h1>
                         <div style="text-align:center; padding-bottom:10px;">
-                            <i class="fa-solid fa-door-closed" id="closed-door-icon"></i>
+                            <img src="Images/open-door.png" class="open-door">
                         </div>
-                        <h2 class="card-text">Status: Dicht</h2>
+                        <h2 class="card-text">Status: Open</h2>
                     </div>
                 </div>
             </div>
@@ -121,3 +121,4 @@
     <script src="https://kit.fontawesome.com/34ccf65de0.js" crossorigin="anonymous"></script>
 </body>
 </html>
+
