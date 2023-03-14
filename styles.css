@@ -1,5 +1,13 @@
+body{
+    background-color: #444446;
+}
+nav{
+    background-color: #1e1e24!important;
+}
+
 #btnlogin{
     float: right;
+    color: #ffffff;
 }
 
 .logo{
@@ -7,6 +15,12 @@
     margin-right: auto;
     display: block;
     height: 54px;
+}
+
+.card{
+    color: #ffffff;
+    background-color: #1e1e24;
+    border: 2px solid black;
 }
 
 .card-title{
@@ -39,4 +53,26 @@
 .open-door{
     width: 100px;
     height: 80px;
+}
+
+.modal-content{
+    background-color: #1e1e24;
+    color: #ffffff;
+}
+
+.modal-content input{
+    background-color: #444446;
+    color: white;
+}
+
+.modal-content input:focus{
+    background-color: #444446;
+    color: white;
+}
+.sidebar{
+    background-color: #1e1e24;
+}
+.title{
+    color: #ffffff;
+    font-weight: 400;
 }

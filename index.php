@@ -46,7 +46,7 @@
 </head>
 <body>
     <!-- Navbar -->
-    <nav class="navbar bg-body-tertiary">
+    <nav class="navbar">
         <div class="container-fluid">
             <img src="GildeDataCentre.svg" class="logo">
                 <button type="button" id="btnlogin" class="btn" data-bs-toggle="modal" data-bs-target="#loginModal">

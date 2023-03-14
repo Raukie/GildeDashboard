@@ -5,7 +5,7 @@ include_once("header.php");
 	<div class="row align-items-md-stretch ">
 		<div class="col-md-4"></div>
 		<div class="col-md-4">
-			<h1 class="display-5 text-center">Deuren</h1>
+			<h1 class="title display-5 text-center">Deuren</h1>
 		</div>
 	</div>
 	<table class="table table-striped table-hover table-dark">
